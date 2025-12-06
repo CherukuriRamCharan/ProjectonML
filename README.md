@@ -41,5 +41,3 @@ You applied **six machine learning algorithms** to compare performance. Common c
 - Potential integration into **business analytics dashboards** for real-time predictions.
 
 
-Would you like me to also draft a **comparative results summary** (like a table showing each algorithm’s performance metrics) so you can present it more professionally?
-
