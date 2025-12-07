@@ -1,6 +1,5 @@
-# Project on ML
-ML Projects
-Project Website Link:https://medical-insurance-price-prediction.netlify.app/
+# Medical Insurance Price Prediction
+Project Website Demo Link:https://medical-insurance-price-prediction.netlify.app/
 ### 📌 Objective
 The goal of this project was to **predict medical insurance costs** for individuals based on demographic and lifestyle factors. Accurate prediction models can help insurance companies design fair pricing strategies and assist customers in understanding how personal attributes influence premiums.
 
